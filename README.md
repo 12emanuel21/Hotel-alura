@@ -19,5 +19,4 @@
 <hr>
 <img src="https://github.com/12emanuel21/Hotel-alura/assets/92338435/8670ad52-2fbf-438c-97d0-5ca43de3db73" alt="img">
 <br><br>
-<img src="![image](https://github.com/12emanuel21/Hotel-alura/assets/92338435/ce35924c-77c3-4384-b2b3-611108a6c756)
-" alt="img">
+<img src="https://github.com/12emanuel21/Hotel-alura/assets/92338435/ce35924c-77c3-4384-b2b3-611108a6c756" alt="img">
