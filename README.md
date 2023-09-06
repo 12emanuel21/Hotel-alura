@@ -28,4 +28,3 @@
 <img src="https://github.com/12emanuel21/Hotel-alura/assets/92338435/d647aa7b-4d19-44f2-82b6-f21d0bae9f62" alt="img">
 <br><br>
 <img src="https://github.com/12emanuel21/Hotel-alura/assets/92338435/76842dd8-4e0a-45dd-8ef8-9cd6a50ef82e" alt="img">
-<br><br>
