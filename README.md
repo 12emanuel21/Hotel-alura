@@ -14,8 +14,9 @@
     <li>meneo de datos</li>
 </ul>
 <hr>
-<h2>ejemplo</h2>
+<h2>ejemplo</h2>![image]()
+
 <hr>
-<img src="Videos/alura-hotel-img1.png" alt="img">
+<img src="https://github.com/12emanuel21/Hotel-alura/assets/92338435/8670ad52-2fbf-438c-97d0-5ca43de3db73" alt="img">
 <br><br>
 <img src="Videos/alura-hotel-img2.png" alt="img">
